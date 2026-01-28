@@ -1,0 +1,18 @@
+[
+  {
+    "id": "12345",
+    "title": "Software Engineer",
+    "company": "Example Corp",
+    "location": "Remote",
+    "description": "Seeking a software engineer with Python, APIs, and cloud experience. Familiarity with Docker and CI/CD preferred.",
+    "url": "https://www.linkedin.com/jobs/view/12345"
+  },
+  {
+    "id": "67890",
+    "title": "Data Analyst",
+    "company": "Data Insights",
+    "location": "New York, NY",
+    "description": "Looking for a data analyst with SQL, Tableau, and analytics reporting skills. Experience with Python is a plus.",
+    "url": "https://www.linkedin.com/jobs/view/67890"
+  }
+]
